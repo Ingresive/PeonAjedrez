@@ -1,6 +1,6 @@
 # Tarea Pe√≥n Ajedrez
 ## Profesor: Jos√© Ram√≥n Jim√©nez Reyes
-## Alumno:Jose Luis S·nchez GarbÌn
+## Alumno:Jose Luis S·nchez GarbÌn 
 
 La tarea va a consistir en modelar el movimiento de un pe√≥n de ajedrez por el tablero de dicho juego.
 <div align="center">
