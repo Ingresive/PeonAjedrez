@@ -1,11 +1,6 @@
 # Tarea Pe贸n Ajedrez
-<<<<<<< HEAD
-## Profesor: Jos茅 Ram贸n Jim茅nez Reyes 
-## Alumno:Jose Luis S醤chez Garb韓 
-=======
 ## Profesor: Jos茅 Ram贸n Jim茅nez Reyes
-## Alumno:
->>>>>>> branch 'master' of https://github.com/Ingresive/PeonAjedrez.git
+## Alumno:Jose Luis S醤chez Garb韓
 
 La tarea va a consistir en modelar el movimiento de un pe贸n de ajedrez por el tablero de dicho juego.
 <div align="center">
