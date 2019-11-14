@@ -1,5 +1,5 @@
 # Tarea Pe贸n Ajedrez
-## Profesor: Jos茅 Ram贸n Jim茅nez Reyes
+## Profesor: Jos茅 Ram贸n Jim茅nez Reyes 
 ## Alumno:Jose Luis S醤chez Garb韓 
 
 La tarea va a consistir en modelar el movimiento de un pe贸n de ajedrez por el tablero de dicho juego.
